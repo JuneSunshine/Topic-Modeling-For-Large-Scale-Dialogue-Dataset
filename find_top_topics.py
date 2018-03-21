@@ -1,5 +1,5 @@
 '''
-Title: Find Top Topics (Linc Global Inc.)
+Title: Find Top Topics
 Author: Jingyang Li (ljygeek@gmail.com)
 '''
 

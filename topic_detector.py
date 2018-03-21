@@ -1,5 +1,5 @@
 '''
-Title: Topic Detector (Linc Global Inc.)
+Title: Topic Detector
 Author: Jingyang Li (ljygeek@gmail.com)
 '''
 
